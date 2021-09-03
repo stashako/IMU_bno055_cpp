@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/imu.dir/test.cpp.o  -o imu  libimulib.a 

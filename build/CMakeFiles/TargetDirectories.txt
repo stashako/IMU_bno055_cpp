@@ -1,0 +1,4 @@
+/home/stashako/imu_i2c/build/CMakeFiles/rebuild_cache.dir
+/home/stashako/imu_i2c/build/CMakeFiles/edit_cache.dir
+/home/stashako/imu_i2c/build/CMakeFiles/imu.dir
+/home/stashako/imu_i2c/build/CMakeFiles/imulib.dir

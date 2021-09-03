@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimulib.a  CMakeFiles/imulib.dir/imuLib/i2c_bno055.c.o
+/usr/bin/ranlib libimulib.a

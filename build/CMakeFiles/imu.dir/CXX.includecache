@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../imuLib/include/getbno055.h
+
+/home/stashako/imu_i2c/test.cpp
+iostream
+-
+getbno055.h
+/home/stashako/imu_i2c/getbno055.h
+
